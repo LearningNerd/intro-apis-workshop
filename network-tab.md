@@ -1,4 +1,4 @@
-# First, let's try out the Network panel in Chrome's Developer Tools!
+# Let's try out the Network panel in Chrome's Developer Tools!
 
 Web browsers like Chrome have [developer tools built right in](https://developer.chrome.com/devtools), with a **network panel** showing information about all the requests and responses happening under the hood every time you visit a website! Let's test it out:
 
