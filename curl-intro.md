@@ -76,4 +76,4 @@ Compare the response body to the response you saw in the Network tab. ***Are the
 
 <hr/>
 
-:point_right: **Next up: let's tackle a fun series of practice challenges using cURL to access some fun APIs!**
+:point_right: **Next up:** [let's tackle a fun series of practice challenges using cURL to access some fun APIs!](https://github.com/LearningNerd/intro-apis-workshop/blob/master/api-challenges-1.md)
