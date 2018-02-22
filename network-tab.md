@@ -58,4 +58,4 @@ After you click on the name of the request, a right-side panel will open up show
 
 <hr/>
 
-:point_right: **Next up:** [let's test this out in the command line!](https://github.com/LearningNerd/intro-apis-workshop/edit/master/curl-intro.md)
+:point_right: **Next up:** [**let's test this out in the command line!**](https://github.com/LearningNerd/intro-apis-workshop/blob/master/curl-intro.md)
