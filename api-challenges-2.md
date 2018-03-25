@@ -86,7 +86,7 @@ As always, when using a new API, first you need to figure out what rules or stan
   4. Copy paste the code below into your plain text file:
 
 ```bash
-curl "YOUR-ENDPOINT/detect?returnFaceAttributes=age,gender" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: YOUR-API-KEY-HERE" --data-ascii '{"url":"YOUR-API-KEY-HERE"}'
+curl "YOUR-ENDPOINT/detect?returnFaceAttributes=age,gender" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: YOUR-API-KEY" --data-ascii '{"url":"YOUR-PHOTO-URL"}'
 ```
 
   > Be sure to replace **YOUR-ENDPOINT** with your actual endpoint, **YOUR-API-KEY** with your actual API key, and **YOUR-PHOTO-URL** with the URL for the face you chose.
