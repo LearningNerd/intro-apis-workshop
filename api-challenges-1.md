@@ -8,7 +8,7 @@ Next, let's practice making requests to some fun APIs to see how the process wor
 
 ## Challenge 1: Practice reading API documentation and get a random joke
 
-Somebady made a [**Dad Jokes API**](https://icanhazdadjoke.com/api) just for laughs. It's not a very *useful* API, but it's a nice simple example of how APIs work -- plus, some of the jokes are actually sort of funny! :laughing:
+Somebody made a [**Dad Jokes API**](https://icanhazdadjoke.com/api) just for laughs. It's not a very *useful* API, but it's a nice simple example of how APIs work -- plus, some of the jokes are actually sort of funny! :laughing:
 
 When learning how to work with any API, *most* of your time will be spent just reading their documentation!
 
